@@ -1,0 +1,8 @@
+password= wemA@036%
+company name = nakasu ;
+question = agriculture;
+uname = panda9191achyuta@gmail.com;
+api key name = eraju;
+api key = 4c91aa6c662ed6e84a999aa71e4921b9
+api call = api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+api.openweathermap.org/data/2.5/weather?q=Bhubaneswar&appid=4c91aa6c662ed6e84a999aa71e4921b9
